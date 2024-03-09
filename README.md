@@ -11,14 +11,14 @@ Currently, I'm working at [The Exploration Company](https://www.exploration.spac
 
 ## 🚀 Skills
 
-- <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=github-actions" /> Managed pipelines using GitHub Actions and Python.
-- <img alt="Cloud Computing" src="https://img.shields.io/badge/-Cloud%20Computing-05122A?style=flat&logo=amazon-aws" /> Worked extensively with AWS and Google Cloud.
-- <img alt="Kubernetes and Docker" src="https://img.shields.io/badge/-Kubernetes%20|%20Docker-05122A?style=flat&logo=kubernetes" /> Managed Kubernetes clusters and Dockerized apps.
-- <img alt="Database Management" src="https://img.shields.io/badge/-Database%20Management-05122A?style=flat&logo=mysql" /> Implemented robust database solutions with AWS RDS.
-- <img alt="Infrastructure as Code" src="https://img.shields.io/badge/-Infrastructure%20as%20Code-05122A?style=flat&logo=terraform" /> Deployed and maintained infrastructure using Terraform.
-- <img alt="Azure Active Directory" src="https://img.shields.io/badge/-Azure%20Active%20Directory-05122A?style=flat&logo=microsoft-azure" /> Deployed applications and implemented SSO solutions.
-- <img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" /> Scripted tasks and developed APIs.
-- <img alt="Bash" src="https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash" /> Used for system administration tasks.
+- <div style="display: flex; align-items: center;"><img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=github-actions" /> <span style="margin-left: 10px;">Managed pipelines using GitHub Actions and Python.</span></div>
+- <div style="display: flex; align-items: center;"><img alt="Cloud Computing" src="https://img.shields.io/badge/-Cloud%20Computing-05122A?style=flat&logo=amazon-aws" /> <span style="margin-left: 10px;">Worked extensively with AWS and Google Cloud.</span></div>
+- <div style="display: flex; align-items: center;"><img alt="Kubernetes and Docker" src="https://img.shields.io/badge/-Kubernetes%20|%20Docker-05122A?style=flat&logo=kubernetes" /> <span style="margin-left: 10px;">Managed Kubernetes clusters and Dockerized apps.</span></div>
+- <div style="display: flex; align-items: center;"><img alt="Database Management" src="https://img.shields.io/badge/-Database%20Management-05122A?style=flat&logo=mysql" /> <span style="margin-left: 10px;">Implemented robust database solutions with AWS RDS.</span></div>
+- <div style="display: flex; align-items: center;"><img alt="Infrastructure as Code" src="https://img.shields.io/badge/-Infrastructure%20as%20Code-05122A?style=flat&logo=terraform" /> <span style="margin-left: 10px;">Deployed and maintained infrastructure using Terraform.</span></div>
+- <div style="display: flex; align-items: center;"><img alt="Azure Active Directory" src="https://img.shields.io/badge/-Azure%20Active%20Directory-05122A?style=flat&logo=microsoft-azure" /> <span style="margin-left: 10px;">Deployed applications and implemented SSO solutions.</span></div>
+- <div style="display: flex; align-items: center;"><img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" /> <span style="margin-left: 10px;">Scripted tasks and developed APIs.</span></div>
+- <div style="display: flex; align-items: center;"><img alt="Bash" src="https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash" /> <span style="margin-left: 10px;">Used for system administration tasks.</span></div>
 
 
 
