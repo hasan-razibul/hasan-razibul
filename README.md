@@ -6,11 +6,9 @@
 
 <h2 style="font-family:monospace; color:#ccffd8;">👋 Hi, I'm Razibul!</h2>
 
-<code>
 Devops Engineer sharing about my journey and learnings in tech<br/>
 Passionate about automation and modern cloud technologies<br/>
 Studying at the [TU Dortmund University](https://www.tu-dortmund.de/), Germany<br/>
-</code>
 
 ![hasan-razibul's Stats](https://github-readme-stats-tau-blush.vercel.app/api?username=hasan-razibul&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=10)
 
