@@ -7,7 +7,7 @@
 ## 👋 Hi there, I'm Razibul!
 
 Sharing my journey and learnings in tech. I love automation and modern cloud technologies.
-Currently, I'm working at [The Exploration Company](https://www.exploration.space/nyx), Germany.
+Currently, I'm working as a DevOps Engineer.
 <!--
 ## 🚀 Skills
 
@@ -26,7 +26,7 @@ Currently, I'm working at [The Exploration Company](https://www.exploration.spac
 
 ![hasan-razibul's Stats](https://github-readme-stats-tau-blush.vercel.app/api?username=hasan-razibul&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=10&custom_title="Growing_Slowly")
 
-## ⏩️ Tech Stacks I Work With
+## ⏩️ Tech stacks I work with
 <div align="left">
     <img src="https://skillicons.dev/icons?i=python,aws,terraform,docker,kubernetes,github,githubactions" /><br>
     <img src="https://skillicons.dev/icons?i=linux,prometheus,grafana,mongodb,postgres" /><br>
