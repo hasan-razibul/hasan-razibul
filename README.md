@@ -49,7 +49,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/razibul-h
   <a href="https://www.linkedin.com/in/razibul-hasan/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/channel/devkube/">
+  <a href="https://www.youtube.com/channel/@devkube/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="35" height="25" alt="youtube logo"  />
   </a>
 </div>
