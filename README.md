@@ -8,7 +8,7 @@
 
 Sharing my journey and learnings in tech. I love automation and modern cloud technologies.
 Currently, I'm working at [The Exploration Company](https://www.exploration.space/nyx), Germany.
-
+<!--
 ## 🚀 Skills
 
 - <div style="display: flex; align-items: center;"><img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=github-actions" /> <span style="margin-left: 10px;">Managed pipelines using GitHub Actions and Python.</span></div>
@@ -20,13 +20,13 @@ Currently, I'm working at [The Exploration Company](https://www.exploration.spac
 - <div style="display: flex; align-items: center;"><img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" /> <span style="margin-left: 10px;">Scripted tasks and developed APIs.</span></div>
 - <div style="display: flex; align-items: center;"><img alt="Bash" src="https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash" /> <span style="margin-left: 10px;">Used for system administration tasks.</span></div>
 
-
+-->
 
 ###
 
 ![hasan-razibul's Stats](https://github-readme-stats-tau-blush.vercel.app/api?username=hasan-razibul&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=10&custom_title="Growing_Slowly")
 
-## ⏩️ Tech Stacks
+## ⏩️ Tech Stacks I Work With
 <div align="left">
     <img src="https://skillicons.dev/icons?i=python,aws,terraform,docker,kubernetes,github,githubactions" /><br>
     <img src="https://skillicons.dev/icons?i=linux,prometheus,grafana,mongodb,postgres" /><br>
