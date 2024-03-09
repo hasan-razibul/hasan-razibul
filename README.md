@@ -7,7 +7,7 @@
 
 
 ## 👋 Hi there, I'm Razibul!
-<img align="right" height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZiczJ3anNlcG52ZzFmYjRkdG9ianR2azY5bnR6YnAyMWtkMm56cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kIUNwdOPkjeM4nEmk7/giphy.gif" />
+<img align="right" height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpobzVmN3dyeTB5NGd6b2Yydno2NXR1bG5xdjlscmJsNmtjbDN2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KHtWcGzKMkn153X7kA/giphy.gif" />
 
 Sharing my journey and learnings in tech.<br>
 I love automation and modern cloud technologies.<br>
