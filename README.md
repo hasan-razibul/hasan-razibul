@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Devops%20engineer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<h2 style="font-family:monospace;">👋 Hi, I'm Razibul!</h1>
+<h2 style="font-family:monospace; color:#ccffd8;">👋 Hi, I'm Razibul!</h2>
 
-
+<code>
 Devops Engineer sharing about my journey and learnings in tech<br/>
 Passionate about automation and modern cloud technologies<br/>
 Studying at the [TU Dortmund University](https://www.tu-dortmund.de/), Germany<br/>
-
+</code>
 
 ![hasan-razibul's Stats](https://github-readme-stats-tau-blush.vercel.app/api?username=hasan-razibul&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=10)
 
