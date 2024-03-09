@@ -12,14 +12,14 @@ Currently, I'm working as a DevOps Engineer.
 
 ## 🚀 Skills
 
-- ![CI/CD](https://img.shields.io/badge/-CI/CD-05122A?style=for-the-badge&logo=github-actions)
-- ![Cloud Computing](https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&logo=amazon-aws)
-- ![Kubernetes and Docker](https://img.shields.io/badge/-Kubernetes%20|%20Docker-05122A?style=for-the-badge&logo=kubernetes)
-- ![Database Management](https://img.shields.io/badge/-Database%20Management-05122A?style=for-the-badge&logo=mysql)
-- ![Infrastructure as Code](https://img.shields.io/badge/-Infrastructure%20as%20Code-05122A?style=for-the-badge&logo=terraform)
-- ![Azure Active Directory](https://img.shields.io/badge/-Azure%20Active%20Directory-05122A?style=for-the-badge&logo=microsoft-azure)
-- ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)
-- ![Bash](https://img.shields.io/badge/-Bash-05122A?style=for-the-badge&logo=gnu-bash)
+![CI/CD](https://img.shields.io/badge/-CI/CD-05122A?style=for-the-badge&logo=github-actions&color=green)
+![Cloud Computing](https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&logo=amazon-aws&color=blue)
+![Kubernetes and Docker](https://img.shields.io/badge/-Kubernetes%20|%20Docker-05122A?style=for-the-badge&logo=kubernetes&color=navy)
+![Database Management](https://img.shields.io/badge/-Database%20Management-05122A?style=for-the-badge&logo=mysql)
+![Infrastructure as Code](https://img.shields.io/badge/-Infrastructure%20as%20Code-05122A?style=for-the-badge&logo=terraform)
+![Azure Active Directory](https://img.shields.io/badge/-Azure%20Active%20Directory-05122A?style=for-the-badge&logo=microsoft-azure)
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=for-the-badge&logo=gnu-bash)
 
 
 ###
