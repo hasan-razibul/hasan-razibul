@@ -1,5 +1,5 @@
 ### Hi there 👋
 ### 📊 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats-tau-blush.vercel.app/api?username=hasan-razibul)](https://github.com/anuraghazra/github-readme-stats)
+![hasan-razibul's Stats](https://github-readme-stats-tau-blush.vercel.app/api?username=hasan-razibul&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
