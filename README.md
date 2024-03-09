@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Devops%20engineer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-## 👋 Hi there, I'm a DevOps Engineer!
+## 👋 Hi there, I'm Razibul!
 
 Sharing my journey and learnings in tech. I love automation and modern cloud technologies.
 Currently, I'm working at [The Exploration Company](https://www.exploration.space/nyx), Germany.
