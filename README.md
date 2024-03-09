@@ -6,7 +6,8 @@
 
 ## 👋 Hi there, I'm Razibul!
 
-Sharing my journey and learnings in tech. I love automation and modern cloud technologies.
+Sharing my journey and learnings in tech.<br>
+I love automation and modern cloud technologies.<br>
 Currently, I'm working as a DevOps Engineer.
 <!--
 ## 🚀 Skills
