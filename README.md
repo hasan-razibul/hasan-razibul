@@ -11,14 +11,14 @@ Currently, I'm working at [The Exploration Company](https://www.exploration.spac
 
 ## 🚀 Skills
 
-- **CI/CD**: Managed pipelines using GitHub Actions and Python.
-- **Cloud Computing**: Worked extensively with AWS and Google Cloud.
-- **Kubernetes and Docker**: Managed Kubernetes clusters and Dockerized apps.
-- **Database Management**: Implemented robust database solutions with AWS RDS.
-- **Infrastructure as Code**: Deployed and maintained infrastructure using Terraform.
-- **Azure Active Directory**: Deployed applications and implemented SSO solutions.
-- **Python**: Scripted tasks and developed APIs.
-- **Bash**: Used for system administration tasks.
+- <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=github-actions" /> Managed pipelines using GitHub Actions and Python.
+- <img alt="Cloud Computing" src="https://img.shields.io/badge/-Cloud%20Computing-05122A?style=flat&logo=amazon-aws" /> Worked extensively with AWS and Google Cloud.
+- <img alt="Kubernetes and Docker" src="https://img.shields.io/badge/-Kubernetes%20|%20Docker-05122A?style=flat&logo=kubernetes" /> Managed Kubernetes clusters and Dockerized apps.
+- <img alt="Database Management" src="https://img.shields.io/badge/-Database%20Management-05122A?style=flat&logo=mysql" /> Implemented robust database solutions with AWS RDS.
+- <img alt="Infrastructure as Code" src="https://img.shields.io/badge/-Infrastructure%20as%20Code-05122A?style=flat&logo=terraform" /> Deployed and maintained infrastructure using Terraform.
+- <img alt="Azure Active Directory" src="https://img.shields.io/badge/-Azure%20Active%20Directory-05122A?style=flat&logo=microsoft-azure" /> Deployed applications and implemented SSO solutions.
+- <img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" /> Scripted tasks and developed APIs.
+- <img alt="Bash" src="https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash" /> Used for system administration tasks.
 
 
 
