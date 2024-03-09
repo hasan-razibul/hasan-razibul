@@ -7,7 +7,7 @@
 
 
 ## 👋 Hi there, I'm Razibul!
-<img align="right" height="120" src="https://media.giphy.com/media/1tDAzdBoIl5GwAsgpd/giphy.gif" />
+<!-- <img align="right" height="120" src="https://media.giphy.com/media/1tDAzdBoIl5GwAsgpd/giphy.gif" /> -->
 
 Sharing my journey and learnings in tech.<br>
 I love automation and modern cloud technologies.<br>
